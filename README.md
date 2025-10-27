@@ -29,43 +29,6 @@ Klik *badge* di bawah untuk membuka *notebook* langsung di Google Colab.
 * Jalankan sel pertama yang berisi `!pip install transformers torch` untuk instalasi.
 * Pilih *Runtime* GPU (`Runtime > Change runtime type > GPU`) untuk melihat `device` berubah menjadi 'cuda'.
 
-*(Ganti `<URL_NOTEBOOK_2_DI_GITHUB_RAW>` dengan URL *raw* file `2_Pipeline_Inference_Dasar.ipynb` di GitHub Anda)*
-
----
-
-### Opsi B: GitHub Codespaces / VS Code Lokal
-
-1.  **Clone Repository Induk:** (Jika belum)
-    ```bash
-    git clone <URL_REPO_INDUK_ANDA>
-    cd <NAMA_FOLDER_REPO>
-    ```
-2.  **(Opsional) Buat & Aktifkan Virtual Environment:**
-    ```bash
-    python -m venv .venv
-    # Aktivasi (Linux/macOS): source .venv/bin/activate
-    # Aktivasi (Windows): .venv\Scripts\activate
-    ```
-3.  **Install Dependensi:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-4.  **Jalankan Notebook:**
-    * Buka folder repo di VS Code / Codespaces.
-    * Navigasi ke `notebooks/2_Pipeline_Inference_Dasar.ipynb`.
-    * Pilih *kernel* Python yang benar.
-    * Jalankan sel-sel kode.
-
----
-
-### Opsi C: Jupyter Notebook / Jupyter Lab Lokal
-
-1.  **Clone Repository Induk:** (Sama seperti Opsi B, langkah 1)
-2.  **Buat & Aktifkan Virtual Environment:** (Sama seperti Opsi B, langkah 2)
-3.  **Install Dependensi:** (Sama seperti Opsi B, langkah 3)
-4.  **Jalankan Jupyter:** Dari terminal (dengan *virtual env* aktif) di *root* folder repo, jalankan `jupyter notebook` atau `jupyter lab`.
-5.  Navigasi ke `notebooks/2_Pipeline_Inference_Dasar.ipynb` dan buka.
-
 ---
 
 ## Kaitan dengan Unjuk Kerja Modul 3
