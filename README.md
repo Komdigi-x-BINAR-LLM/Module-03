@@ -23,7 +23,7 @@ Anda bisa menjalankan *notebook* ini menggunakan salah satu cara berikut:
 ### Opsi A: Google Colaboratory (Rekomendasi Cepat)
 
 Klik *badge* di bawah untuk membuka *notebook* langsung di Google Colab.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<URL_NOTEBOOK_2_DI_GITHUB_RAW>)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](<https://colab.research.google.com/drive/1vPlORclIxg3iQgY1ULrDB1fzyzT64knF?usp=sharing>)
 
 **Catatan Colab:**
 * Jalankan sel pertama yang berisi `!pip install transformers torch` untuk instalasi.
