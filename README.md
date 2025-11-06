@@ -23,7 +23,7 @@ Anda bisa menjalankan *notebook* ini menggunakan salah satu cara berikut:
 
 Klik *badge* di bawah untuk membuka *notebook* langsung di Google Colab (tidak perlu instalasi lokal).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://[LINK_NOTEBOOK_ANDA_DI_SINI])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uVqt7nABNuf4g--xpc1eBsyyNo0uPLCE?usp=sharing)
 
 *(Catatan: Anda harus mengunggah file `.ipynb` ini ke Google Drive Anda sendiri untuk mendapatkan link Colab).*
 
